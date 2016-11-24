@@ -7,3 +7,5 @@ Title: Paper about mars
 
 References:
 (References the bibliography.bib file)
+
+New info: Mars is red
