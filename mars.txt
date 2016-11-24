@@ -1,1 +1,6 @@
 This is my first draft on planet mars.
+
+Author: Alex Merz
+Affiliation: NeSI
+
+Title: Paper about mars
