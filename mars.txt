@@ -4,3 +4,6 @@ Author: Alex Merz
 Affiliation: NeSI
 
 Title: Paper about mars
+
+References:
+(References the bibliography.bib file)
